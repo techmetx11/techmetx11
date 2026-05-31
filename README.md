@@ -4,5 +4,3 @@ This profile is for contributions with GitHub-only projects, My work is at https
 
 ### Mirror of my bio from Codeberg
 I'm a programmer.
-
-Monero: 834pVmPHtuJ9hgyourovmGEFxLKFJdAhqDjhWf1rR1HvYPDS5mEyUrH3WeACUQAEfvKzXs4MEWP5sFAgBQbCZGxb6s7c5q5
